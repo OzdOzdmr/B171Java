@@ -13,6 +13,7 @@ public class Loops03 {
         int start = input.nextInt();
 
         System.out.println("Bitis degerini giriniz..");
+
         int end = input.nextInt();
 
         if(start>end){
